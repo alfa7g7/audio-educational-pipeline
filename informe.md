@@ -21,10 +21,10 @@ Se generaron gráficas de barras para WER y CER antes y después de la correcci�
 *Figura 2: Comparación de Character Error Rate antes y después de la corrección automática*
 
 **Análisis de las gráficas:**
-- Se observa una mejora significativa en ambos indicadores
-- WER promedio se reduce de X a Y (Z% de mejora)
-- CER promedio se reduce de X a Y (Z% de mejora)
-- El fragmento 5 muestra la mejora más dramática
+- Se observa una mejora significativa en ambos indicadores.
+- WER promedio se reduce de 6.60 a 0.92 (86% de mejora).
+- CER promedio se reduce de 6.33 a 0.76 (88% de mejora).
+- El fragmento 5 muestra la mejora más dramática.
 
 ## 3. Errores frecuentes detectados (análisis real)
 
