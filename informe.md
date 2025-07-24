@@ -14,10 +14,13 @@
 - **Gráficas:**
 
 Se generaron gráficas de barras para WER y CER antes y después de la corrección, mostrando una mejora significativa tras el pipeline de corrección automática.
+
 ![Comparación de WER](grafica_wer.png)
+
 *Figura 1: Comparación de Word Error Rate antes y después de la corrección automática*
 
 ![Comparación de CER](grafica_cer.png)
+
 *Figura 2: Comparación de Character Error Rate antes y después de la corrección automática*
 
 **Análisis de las gráficas:**
